@@ -2,7 +2,7 @@
   "name": "@zuri/zuri-plugin-company-sales-prospects",
   "license": "UNLICENSED",
   "scripts": {
-    "start": "webpack serve --port 8500 --env isLocal",
+    "start": "webpack serve --port 22674 --env isLocal",
     "start:standalone": "webpack serve --env standalone",
     "build": "concurrently yarn:build:*",
     "build:webpack": "webpack --mode=production",
