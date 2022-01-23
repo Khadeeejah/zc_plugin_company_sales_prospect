@@ -60,7 +60,9 @@ function Home() {
                 </div>
             </div>
         </div>
-        
+        <div className="flower-svg">
+            <img src={flower} alt="" />
+        </div>
         
         <div className="my-skills-main-reel">
             <div className="my-skills-reel" id="skill-reel">
